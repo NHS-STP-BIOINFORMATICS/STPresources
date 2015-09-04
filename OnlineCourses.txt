@@ -25,6 +25,7 @@ Algorithms:
     +++LLP- wonderful set of programs to work through slowly. Helpful to do concurrently with any of the learning to program courses as it helps highlight the uses of programming in a biological context.
   Bioinformatics Specialisation:  https://www.coursera.org/specializations/bioinformatics
     +++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough. 
+
 Introduction to Genomics:
   Genomic data science:    https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop
     +LLP- Most courses in the specialisation are very simple, but would give first years a fairly good grounding on the basics
@@ -36,6 +37,7 @@ Statistics:
 Databases:
   Introduction to Databases:  https://class.coursera.org/db
     +LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
+
 Physics roation: 
   Circuits and Electronics:   https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info
     LLP- I found this course post-Liverpool. But I went through it for completness sake. It's pretty good and could be of use if you are keen, but not required.
