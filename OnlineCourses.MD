@@ -24,52 +24,50 @@
   
 ##Introduction to Computer Science:##
 
-  **Introduction to computer science and programming using python :**
+**Introduction to computer science and programming using python :**
   (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
   
-    +++LLP- Excellent, fast paced, introduction to CS. Good assignments that really reinforce learning.
-    
-  **Introduction to computational thinking and data science: ** (https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VAhBKsV3Vc0)
++++LLP- Excellent, fast paced, introduction to CS. Good assignments that really reinforce learning.
+
+**Introduction to computational thinking and data science:** (https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VAhBKsV3Vc0)
   
-    +++LLP- Excellent, fast paced, introduction to CS. Good assignments that really reinforce learning.
++++LLP- Excellent, fast paced, introduction to CS. Good assignments that really reinforce learning.
     
-  **Introduction to computer science CS50 :**    (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+**Introduction to computer science CS50 :**    (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   
-    +++LLP- Really good, fun, overview of computer science. Excellent explanations of principles. 
++++LLP- Really good, fun, overview of computer science. Excellent explanations of principles. 
 
 ##Algorithms:##
 
-  **Rosalind:**   (www.rosalind.info)
+**Rosalind:**   (www.rosalind.info)
   
-    +++LLP- wonderful set of programs to work through slowly. Helpful to do concurrently with any of the learning to program courses as it helps highlight the uses of programming in a biological context.
++++LLP- wonderful set of programs to work through slowly. Helpful to do concurrently with any of the learning to program courses as it helps highlight the uses of programming in a biological context.
     
-  **Bioinformatics Specialisation:**  (https://www.coursera.org/specializations/bioinformatics)
+**Bioinformatics Specialisation:**  (https://www.coursera.org/specializations/bioinformatics)
   
-    +++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough. 
++++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough. 
 
 ##Introduction to Genomics:##
 
-  **Genomic data science:**    (https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop)
+**Genomic data science:**    (https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop)
   
-    +LLP- Most courses in the specialisation are very simple, but would give first years a fairly good grounding on the basics
++LLP- Most courses in the specialisation are very simple, but would give first years a fairly good grounding on the basics
   
 ##Statistics:##
 
-  **Statistics and R for the life sciences:** (https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x#!)
+**Statistics and R for the life sciences:** (https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x#!)
   
-    +LLP- An entire specialisation dealing with data analysis (with R).  First iteration was good, but assignments needed a bit more work (they were too guided), I hear new iterations are better. 
++LLP- An entire specialisation dealing with data analysis (with R).  First iteration was good, but assignments needed a bit more work (they were too guided), I hear new iterations are better. 
 
 ##Databases:##
 
-  **Introduction to Databases:**  (https://class.coursera.org/db)
+**Introduction to Databases:**  (https://class.coursera.org/db)
   
-    +LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
++LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
 
 ##Physics roation: ##
 
-  **Circuits and Electronics:**   (https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info)
+**Circuits and Electronics:**   (https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info)
   
-    LLP- I found this course post-Liverpool. But I went through it for completness sake. It's pretty good and could be of use if you are keen, but not required.
-  
-  
-  
+LLP- I found this course post-Liverpool. But I went through it for completness sake. It's pretty good and could be of use if you are keen, but not required.
+ 
