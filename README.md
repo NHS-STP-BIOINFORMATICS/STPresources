@@ -4,11 +4,11 @@ This repository will hold a list of resources previous Bioinformatics (Genomics)
 
 I've provisionally given a grading system for the courses according to how useful I found things:
 
-+ok
++++excellent
 
 ++good
 
-+++excellent
++ok
 
 _neutral
 
