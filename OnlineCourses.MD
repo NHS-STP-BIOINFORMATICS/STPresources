@@ -1,11 +1,11 @@
-Introduction to Bioinformatics (for the first rotation particularly non biologists):
-  Life sciences in your computer:    https://www.coursera.org/course/bioinform
+==Introduction to Bioinformatics (for the first rotation particularly non biologists):==
+  '''Life sciences in your computer''':    [[https://www.coursera.org/course/bioinform]]
     +LLP- Ideal for those from a non-biology background to get to grips with the first rotation in genetics. 
-  Bioinformatic methods I&II:   https://class.coursera.org/bioinfomethods1-001
+  '''Bioinformatic methods I&II''':   https://class.coursera.org/bioinfomethods1-001
     +LLP- Same as above and covers similar topics. Good for general background.
 
-Introductory level Python courses:
-  codecademy python :    https://www.codecademy.com/learn
+==Introductory level Python courses:==
+  '''codecademy python''' :    [[https://www.codecademy.com/learn]]
     +LLP- Good intro to the syntax of python. You  get through the course fairly quickly. Composed of small, guided, exercises
   Python for everybody:    https://www.coursera.org/specializations/python
     ++LLP- Very clearly explained programming principles. Useful to get to grips with python quickly.
