@@ -1,45 +1,45 @@
-==Introduction to Bioinformatics (for the first rotation particularly non biologists):==
-  '''Life sciences in your computer:'''    [[https://www.coursera.org/course/bioinform]]
+##Introduction to Bioinformatics (for the first rotation particularly non biologists):##
+  **Life sciences in your computer:**    (https://www.coursera.org/course/bioinform)
     +LLP- Ideal for those from a non-biology background to get to grips with the first rotation in genetics. 
-  '''Bioinformatic methods I&II:'''   [[https://class.coursera.org/bioinfomethods1-001]]
+  ***Bioinformatic methods I&II:***   (https://class.coursera.org/bioinfomethods1-001)
     +LLP- Same as above and covers similar topics. Good for general background.
 
-==Introductory level Python courses:==
-  codecademy python :    https://www.codecademy.com/learn
+##Introductory level Python courses:##
+  **codecademy python :**    (https://www.codecademy.com/learn)
     +LLP- Good intro to the syntax of python. You  get through the course fairly quickly. Composed of small, guided, exercises
-  Python for everybody:    https://www.coursera.org/specializations/python
+  **Python for everybody:**    (https://www.coursera.org/specializations/python)
     ++LLP- Very clearly explained programming principles. Useful to get to grips with python quickly.
-  Interactive programming through python:   https://www.coursera.org/course/interactivepython
+  **Interactive programming through python:**   (https://www.coursera.org/course/interactivepython)
     ++LLP- Fun course where you get to make your own games and learn to program at the same time. Quite addictive.
   
-Introduction to Computer Science:
-  Introduction to computer science and programming using python :    https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5
+##Introduction to Computer Science:##
+  **Introduction to computer science and programming using python :** (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
     +++LLP- Excellent, fast paced, introduction to CS. Good assignments that really reinforce learning.
-  Introduction to computational thinking and data science:  https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VAhBKsV3Vc0
+  **Introduction to computational thinking and data science: ** (https://www.edx.org/course/mitx/mitx-6-00-2x-introduction-computational-2836#.VAhBKsV3Vc0)
     +++LLP- Excellent, fast paced, introduction to CS. Good assignments that really reinforce learning.
-  Introduction to computer science CS50 :    https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+  **Introduction to computer science CS50 :**    (https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
     +++LLP- Really good, fun, overview of computer science. Excellent explanations of principles. 
 
-Algorithms:
-  Rosalind:   www.rosalind.info
+##Algorithms:##
+  **Rosalind:**   (www.rosalind.info)
     +++LLP- wonderful set of programs to work through slowly. Helpful to do concurrently with any of the learning to program courses as it helps highlight the uses of programming in a biological context.
-  Bioinformatics Specialisation:  https://www.coursera.org/specializations/bioinformatics
+  **Bioinformatics Specialisation:**  (https://www.coursera.org/specializations/bioinformatics)
     +++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough. 
 
-Introduction to Genomics:
-  Genomic data science:    https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop
+##Introduction to Genomics:##
+  **Genomic data science:**    (https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop)
     +LLP- Most courses in the specialisation are very simple, but would give first years a fairly good grounding on the basics
   
-Statistics:
-  Statistics and R for the life sciences: https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x#!
+##Statistics:##
+  **Statistics and R for the life sciences:** (https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x#!)
     +LLP- An entire specialisation dealing with data analysis (with R).  First iteration was good, but assignments needed a bit more work (they were too guided), I hear new iterations are better. 
 
-Databases:
-  Introduction to Databases:  https://class.coursera.org/db
+##Databases:##
+  **Introduction to Databases:**  (https://class.coursera.org/db)
     +LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
 
-Physics roation: 
-  Circuits and Electronics:   https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info
+##Physics roation: ##
+  **Circuits and Electronics:**   (https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info)
     LLP- I found this course post-Liverpool. But I went through it for completness sake. It's pretty good and could be of use if you are keen, but not required.
   
   
