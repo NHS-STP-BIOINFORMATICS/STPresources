@@ -75,3 +75,8 @@
   
 LLP- I found this course post-Liverpool. But I went through it for completness sake. It's pretty good and could be of use if you are keen, but not required.
  
+## Introduction to other programming languages ##
+
+** Programming MotherF\*\*\#\#r ** (http://programming-motherfucker.com/become.html)
+
+++MW- A series of short courses covering a whole range of niches... web development, scripting, OOP, database work, programming frameworks. I've used these resources to pick up Perl, Java, Python, SQL, Django and a couple of others I've dropped since. Entertaining reads and the pacing of the courses is about right. Also... How many software course have their own merchandise?
