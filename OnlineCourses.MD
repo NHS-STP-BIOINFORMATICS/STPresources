@@ -10,6 +10,10 @@
 
 ##Introductory level Python courses:##
 
+**Learn python the hard way :** (http://learnpythonthehardway.org)
+
++++MW- Fantastic intro to a wide range of Python concepts. Each section introduces a concept along with a context you would use it in, and a range of code examples to practice with. Fast paced and a fun read.
+
 **codecademy python :**    (https://www.codecademy.com/learn)
   
 +LLP- Good intro to the syntax of python. You  get through the course fairly quickly. Composed of small, guided, exercises
