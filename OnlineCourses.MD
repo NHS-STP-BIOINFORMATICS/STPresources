@@ -25,6 +25,9 @@
 **Interactive programming through python:**   (https://www.coursera.org/course/interactivepython)
   
 ++LLP- Fun course where you get to make your own games and learn to program at the same time. Quite addictive.
+
+**Euroscipy tutorials
+++ARJ - reporsitories forked into STP bioinformatics repo. All good tutorials with ipython notebooks or step by step demos for how to use these useful packages
   
 ##Introduction to Computer Science:##
 
