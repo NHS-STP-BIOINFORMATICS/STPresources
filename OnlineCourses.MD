@@ -29,6 +29,11 @@
 **Euroscipy tutorials
 ++ARJ - reporsitories forked into STP bioinformatics repo. All good tutorials with ipython notebooks or step by step demos for how to use these useful packages
   
+##Django##
+**Django Youtube tutorial series **
+(https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD)
+++ARJ  - very clear, easy to follow video series
+
 ##Introduction to Computer Science:##
 
 **Introduction to computer science and programming using python :**
