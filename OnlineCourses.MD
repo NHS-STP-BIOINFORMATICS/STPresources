@@ -8,6 +8,10 @@
   
 +LLP- Same as above and covers similar topics. Good for general background.
 
+**Quantitative Biology Workshop:**    (https://www.edx.org/course/quantitative-biology-workshop-mitx-7-qbwx-1)
+
++++LLP- Great overview of many different computational skills/programming languages used in biology: MATLAB, Python, R, PyMol etc...  
+
 ##Introductory level Python courses:##
 
 **Learn python the hard way :** (http://learnpythonthehardway.org)
