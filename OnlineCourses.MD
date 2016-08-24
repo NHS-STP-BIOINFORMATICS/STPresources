@@ -81,7 +81,7 @@
   
 +LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
 
-##Physics roation: ##
+##Physics rotation: ##
 
 **Circuits and Electronics:**   (https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info)
   
