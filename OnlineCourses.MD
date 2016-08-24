@@ -75,6 +75,10 @@
   
 +LLP- An entire specialisation dealing with data analysis (with R).  First iteration was good, but assignments needed a bit more work (they were too guided), I hear new iterations are better. 
 
+**StatTrek:** (http://stattrek.com/#!)
+  
+SR- Has been recommended several times. I've not sat down and gone through it, but it looks like a useful reference to dip in and out of. 
+
 ##Databases:##
 
 **Introduction to Databases:**  (https://class.coursera.org/db)
