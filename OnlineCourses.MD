@@ -79,6 +79,10 @@
   
 SR- Has been recommended several times. I've not sat down and gone through it, but it looks like a useful reference to dip in and out of. 
 
+**Ben Lambert on YouTube:** (https://www.youtube.com/channel/UC3tFZR3eL1bDY8CqZDOQh-w/#!)
+  
++SR- I found his lectures on statistical tests to be clear providing the forumlae as well as an intuitive explanation in plain language. 
+
 ##Databases:##
 
 **Introduction to Databases:**  (https://class.coursera.org/db)
