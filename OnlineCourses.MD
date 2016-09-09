@@ -25,7 +25,11 @@
 **Python for everybody:**    (https://www.coursera.org/specializations/python)
   
 ++LLP- Very clearly explained programming principles. Useful to get to grips with python quickly.
-    
+
+**Using Python to Access Web Data:**    (https://www.coursera.org/learn/python-network-data)
+
+++LLP- Follows naturally from Python for everybody. Useful for interacting with REST services etc.
+
 **Interactive programming through python:**   (https://www.coursera.org/course/interactivepython)
   
 ++LLP- Fun course where you get to make your own games and learn to program at the same time. Quite addictive.
