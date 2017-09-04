@@ -1,4 +1,4 @@
-##Introduction to Bioinformatics (for the first rotation particularly non biologists):##
+## Introduction to Bioinformatics (for the first rotation particularly non biologists): ##
 
 **Life sciences in your computer:**    (https://www.coursera.org/course/bioinform)
 
@@ -12,7 +12,7 @@
 
 +++LLP- Great overview of many different computational skills/programming languages used in biology: MATLAB, Python, R, PyMol etc...  
 
-##Introductory level Python courses:##
+## Introductory level Python courses: ##
 
 **Learn python the hard way :** (http://learnpythonthehardway.org)
 
@@ -37,12 +37,12 @@
 **Euroscipy tutorials
 ++ARJ - reporsitories forked into STP bioinformatics repo. All good tutorials with ipython notebooks or step by step demos for how to use these useful packages
   
-##Django##
+## Django ##
 **Django Youtube tutorial series **
 (https://www.youtube.com/playlist?list=PLxxA5z-8B2xk4szCgFmgonNcCboyNneMD)
 ++ARJ  - very clear, easy to follow video series
 
-##Introduction to Computer Science:##
+## Introduction to Computer Science: ##
 
 **Introduction to computer science and programming using python :**
   (https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-5)
@@ -65,15 +65,15 @@
     
 **Bioinformatics Specialisation:**  (https://www.coursera.org/specializations/bioinformatics)
   
-+++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough. 
++++LLP- wonderful course created by the same people as Rosalind. Can be made more or less challenging, online e-book is great. Can't recommend highly enough.  Has been Moved to Edx: (https://www.edx.org/course/introduction-genomic-data-science-uc-san-diegox-cse181-1x)
 
-##Introduction to Genomics:##
+## Introduction to Genomics: ##
 
 **Genomic data science:**    (https://www.coursera.org/specializations/genomics?utm_medium=courseDescripTop)
   
 +LLP- Most courses in the specialisation are very simple, but would give first years a fairly good grounding on the basics
   
-##Statistics:##
+## Statistics: ##
 
 **Statistics and R for the life sciences:** (https://www.edx.org/course/statistics-r-life-sciences-harvardx-ph525-1x#!)
   
@@ -87,13 +87,13 @@ SR- Has been recommended several times. I've not sat down and gone through it, b
   
 +SR- I found his lectures on statistical tests to be clear providing the forumlae as well as an intuitive explanation in plain language. 
 
-##Databases:##
+## Databases: ##
 
 **Introduction to Databases:**  (https://class.coursera.org/db)
   
 +LLP- Good explanation of different kinds of databases. A little dry as a course, for my liking, but gets the basic job done.
 
-##Physics rotation: ##
+## Physics rotation: ##
 
 **Circuits and Electronics:**   (https://courses.edx.org/courses/MITx/6.002_4x/3T2014/info)
   
