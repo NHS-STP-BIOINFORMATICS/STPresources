@@ -57,7 +57,7 @@
   
 +++LLP- Really good, fun, overview of computer science. Excellent explanations of principles. 
 
-##Algorithms:##
+## Algorithms: ##
 
 **Rosalind:**   (www.rosalind.info)
   
